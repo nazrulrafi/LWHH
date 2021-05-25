@@ -1,0 +1,2 @@
+user:philosophy_admin
+pass:philosophy_admin

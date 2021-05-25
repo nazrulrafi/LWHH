@@ -1,0 +1,15 @@
+.metabox-table tr td{
+    padding: 10px 0;
+}
+.metabox-table tr td:first-child{
+    width:35%;
+}
+.image_metabox_table tbody tr td:first-child{
+    width:35%;
+}
+.metabox-table tr td label{
+    font-size: 15px;
+}
+#image_container{
+    margin-top: 10px;
+}
